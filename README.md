@@ -1,6 +1,6 @@
 # ![World Meteorological Organization](https://community.wmo.int/themes/wmo/logo.png) WMO Expert Team on Data Standards (ET-Data)
 
-[ET-Data](https://community.wmo.int/en/governance/commission-membership/commission-observation-infrastructure-and-information-systems-infcom/standing-committee-information-management-and-technology-sc-imt/expert-team-data-standards) ...
+The [ET-Data](https://community.wmo.int/en/governance/commission-membership/commission-observation-infrastructure-and-information-systems-infcom/standing-committee-information-management-and-technology-sc-imt/expert-team-data-standards) maintains and further develops the _Manual on Codes_ (WMO-No. 306) Vol. I.2 and Vol. I.3, to meet the requirements of all Members, WMO Earth system disciplines and domains as well as partner organizations;
 
 [Terms of Reference](https://github.com/wmo-im/sc-imt/blob/main/et-tt/et-data.adoc)
 
