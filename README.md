@@ -34,9 +34,8 @@ The [ET-Data](https://community.wmo.int/en/governance/commission-membership/comm
 ## Meetings
 https://github.com/wmo-im/et-data/wiki/Meetings
 
-## Discussions
+## Email group
 - ET-Data mailing list (`et-data at groups.wmo.int`)
-- [ET-data team wide discussions on GitHub](https://github.com/wmo-im/et-data/discussions)
 
 ## Repositories
 
