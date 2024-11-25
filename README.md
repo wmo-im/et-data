@@ -18,7 +18,7 @@ https://github.com/wmo-im/et-data/wiki/Meetings
 |Hoda	AHMED	|Egypt|[@Hodasarhanahmed](https://github.com/Hodasarhanahmed)
 |Jeff	ATOR	|USA|[@jbathegit](https://github.com/jbathegit)
 |Lars	BARRING	|Sweden|[@larsbarring](https://github.com/larsbarring)
-|Jakub	BEER|HMEI/IBL|[@TBA](https://github.com/TBA)
+|Jakub	BEER|HMEI/IBL|[@Jakub-Beer](https://github.com/Jakub-Beer)
 |Tony	BOSTON|Australia|[@tonyboston-au](https://github.com/tonyboston-au)
 |Mark	CURTIS|Australia|[@marack](https://github.com/marack)
 |Ethan	DAVIS|USA|[@ethanrd](https://github.com/ethanrd)
@@ -32,7 +32,7 @@ https://github.com/wmo-im/et-data/wiki/Meetings
 |Antoine	MERLE |EUMETSAT|[@antoinemerle](https://github.com/antoinemerle)
 |Kevin	O'BRIEN	|USA|[@kevin-obrien](https://github.com/kevin-obrien)
 |Sébastien VILLAUME|	ECMWF|[@sebvi](https://github.com/sebvi)
-|Da	XU|China|[@TBA](https://github.com/TBA)
+|Da	XU|China|[@DaXu-NMIC](https://github.com/DaXu-NMIC)
 |Anna MILAN|WMO Secretariat|[@amilan17](https://github.com/orgs/amilan17)
 
 
