@@ -43,6 +43,7 @@ https://github.com/wmo-im/et-data/wiki/Meetings
 - https://github.com/wmo-im/GRIB2
 - https://github.com/wmo-im/BUFR4
 - https://github.com/wmo-im/CCT
+- https://github.com/wmo-im/CF-NetCDF
 
 ## GitHub
 - Teams
