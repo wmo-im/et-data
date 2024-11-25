@@ -1,8 +1,12 @@
-# ![World Meteorological Organization](https://community.wmo.int/themes/wmo/logo.png) WMO Expert Team on Data Standards (ET-Data)
+# WMO Expert Team on Data Standards (ET-Data)
 
 The [ET-Data](https://community.wmo.int/en/governance/commission-membership/commission-observation-infrastructure-and-information-systems-infcom/standing-committee-information-management-and-technology-sc-imt/expert-team-data-standards) maintains and further develops the _Manual on Codes_ (WMO-No. 306) Vol. I.2 and Vol. I.3, to meet the requirements of all Members, WMO Earth system disciplines and domains as well as partner organizations;
 
 [Terms of Reference](https://github.com/wmo-im/sc-imt/blob/main/et-tt/et-data.adoc)
+
+
+## Meetings
+https://github.com/wmo-im/et-data/wiki/Meetings
 
 ## Membership
 
@@ -31,15 +35,15 @@ The [ET-Data](https://community.wmo.int/en/governance/commission-membership/comm
 |Da	XU|China|[@TBA](https://github.com/TBA)
 |Anna MILAN|WMO Secretariat|[@amilan17](https://github.com/orgs/amilan17)
 
-## Meetings
-https://github.com/wmo-im/et-data/wiki/Meetings
 
 ## Email group
 - ET-Data mailing list (`et-data at groups.wmo.int`)
 
 ## Repositories
+- https://github.com/wmo-im/GRIB2
+- https://github.com/wmo-im/BUFR4
+- https://github.com/wmo-im/CCT
 
 ## GitHub
 - Teams
   - tag all of [ET-Data](https://github.com/orgs/wmo-im/teams/et-data) in a GitHub issue: **@wmo-im/et-data**
-- [Team members and their GitHub handles](#Membership)
