@@ -1,0 +1,79 @@
+= Template Examples
+:source: https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/wmo-information-system-wis/template-examples
+
+_Manual on Codes Volume I.2, Part C, Attachment I_
+
+*Examples of templates for the transmission in BUFR or CREX of other data types*
+
+== GBON templates
+
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EcT_XVZSy9ZBlEjQYzD0ZpIB0o4JSaGYehAB0EVK96YvMA?e=NzPmJW[BUFR sequence for representation of SYNOP with supplementary information on one-hour observations]
+  <3 07 096> (with WIGOS ID)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EbTY4-1CGR5BtYm9Gj0KRvIBSvTxWUogvnT27JDgM2MoYg?e=F3ftfd[BUFR SEQUENCE SNOW OBSERVATION, SNOW DENSITY, SNOW WATER EQUIVALENT]
+  <3 07 103>
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EWzTZa9ILMBGgKxqmO6_32EBx0KdkplzhZO_wDpZYg914g?e=o0ySsI[BUFR sequence for representation of TEMP, TEMP SHIP and TEMP MOBIL observation type data with higher precision of pressure and geopotential height]
+  <3 09 057>
+
+== For specific surface observations
+
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EYZMR9DHlUNKs7XPpPY0a7wB8hiY4xRZPPfJzbndH-GQIw?e=Ijgvk4[BUFR template for synoptic reports from fixed land stations suitable for SYNOP data and for maritime data from coastal and island stations]
+  (TM307079)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/ERE6juhRit9BoNS1LHz_w2YBtqipnH7gF7lWmrj7HffQfw?e=yL4Kjp[BUFR template for presentation of SYNOP data with supplementary information on one-hour observations]
+  (TM307096)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/ESfVFQ9_YKtLpOwuKVdoeAwBF3P2C7H4yyFj-6NDezcKog?e=Wht1X7[National and WMO station identification and the BUFR template for surface observations from one-hour period]
+  (TM307091)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EfSAtUnw0I9OhFoZSaaxfosB9UkHZ7p1xyJ3xSJLIyVWZQ?e=Z4PfN8[CREX template for synoptic reports from fixed land stations suitable for manual encoding]
+  (TMD07089)
+
+== For maritime data
+
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EXh6sBgXywNAludHk-kEGNQB-ipxQJX6X8aYCNjF1Nlwzg?e=va2b1A[BUFR template for representation of data derived from a ship based lowered instrument measuring subsurface seawater temperature, salinity and current profiles]
+  (TM315007)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EV-Qy69yaThAm6ZlO47JpDoBHupCplErRMHK4ftu62BCMA?e=CbqRO9[BUFR template for representation of data from moored buoys]
+  (TM315008)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EU5mTQE1R39Ep-ZGaMVyh70BEk6-JV-dlxyrPCqbiyYErw?e=nyLOUm[BUFR template for representation of data from drifting buoys]
+  (TM315009)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EZvB7yzzGMBOnVjh6ifiH1QB1ZpRu3YNjtuIszsa42tFig?e=Evfb5R[Sub-surface profiling floats]
+  (TM315003)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EdcsPUFIDLFIm_9UfmPfR-IBFFr1svwUtJK4TYV83u-7pA?e=FCFyoZ[BUFR template for XBT Temperature Profile data]
+  (TM315004)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EZn5FcTANtlBjyEvDazopNoB_3-Sti2GiR7LBK-LFDEYMA?e=5OvX3d[TRACKOB data]
+  (TM308010)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EYCxK_hm5HBEs8dj4xyYhjIB8JrKrYCZm8ujM7AIGygJcw?e=G0Cnfr[BUFR/CREX templates for tsunameter data and dart buoy system messages]
+  (TM306027)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EUQsB14SxBNGod45ie-Ae9cBsftDsn36RzjYVG-3_6XqMg?e=v49YOA[BUFR templates for WAVEOB data]
+  (TM308015/16)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EWGrhafUhARHkJgfG2uOIIcBHZuEUxjMqu9gnzf4onBRg?e=GANZW2[BUFR/CREX templates for reporting time series of tide data]
+  (non-TM)
+
+== For aviation code data
+
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EZEZy_2BU7NPrwl4XXxQLXUB409iIPpIbJyEBHgboNXGnQ?e=89L2ER[METAR/SPECI and TAF]
+  (TM307051, TM307056)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EQ4PXCxTf49DqSdxymd9J7QB3_DDEoihcOBwBbS-AWjkng?e=lxlKX9[Aircraft reports data]:
+** single level standard AMDAR reports (TM311005)
+** single level AMDAR data - a more complex template (TM311010), *version 7*
+** aircraft ascent/descent profile suitable for AMDAR profile data (TM311008, TM311009)
+** old AIREP report in BUFR
+
+== For satellite observation
+
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/Ed9dnSuk2ipKnmgweYLDwV4BureKkTsApz0JwlHPbV8LHw?e=kzozbK[SAREP data - Part A: Information on Tropical Cyclone]
+  (TM316052)
+
+== For miscellaneous data
+
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/ERNxVCdiQ2tAhgSBrjyVhLQBeS1YCyyefPIqUZNva2MkSg?e=hbHVdt[RADOB data - Part A: Information on Tropical Cyclone]
+  (TM316050)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EaO1RwKIENdGrupeI32glcIBn0kozAjof726ADbWmQkE-A?e=WZ7gsf[CREX sequences for coding Squall Lines in West Africa]
+  (TMD16060, TMD16061)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EQQH4joWCqhPrZMVZJDhASsBk3O9HVGgrE-6p-dCW9-jHQ?e=mQlDik[Template for passing locust information]
+  (TM302089)
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EY0HXTlTfTFDhowWeU1htp4Bz_zn1vqsJy8cDhnkwYLzeg?e=L6f2yb[Tropical Cyclone Tracks derived from EPS]
+  (non-TM, validated)
+
+== Other CREX Template Examples — from the Manual on Codes
+
+* link:https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EVZBTuMbMGlDvmJ6QcrSDrEBBIcK4nBFxBo5yR7S8dNntA?e=mrb6gm[Other CREX Template Examples]
+
+_Page last updated: 20 March 2025_

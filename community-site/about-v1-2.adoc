@@ -1,0 +1,82 @@
+= About the Manual on Codes Volume I.2
+:source: https://community.wmo.int/about-manual-codes-volume-i2
+
+_Manual on Codes_ (WMO-No. 306), Volume I.2 - Part B and Part C
+
+*Annex II to the WMO Technical Regulations*
+
+Coded messages are used for the international exchange of meteorological
+information comprising observational data provided by the WMO Integrated
+Global Observing System and processed data provided by the WMO Integrated
+Processing and Prediction System (formerly Global Data-processing and
+Forecasting System). Coded messages are also used for the international
+exchange of observed and processed data required in specific applications
+of meteorology to various human activities and for exchanges of information
+related to meteorology.
+
+== Download from the WMO library
+
+link:https://library.wmo.int/idurl/4/35625[_Manual on Codes_] (WMO-No. 306),
+Volume I.2 [2025 edition]
+
+== Download machine-readable codes
+
+link:https://community.wmo.int/node/37690[The latest version of the machine-readable codes]
+
+== View amendments
+
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/IQDNF8e1GAo7Q5d7HprF3QpiAYLwiRJLrGxUo69WKEMt1BI?e=oqbcFK[FT2026-1]
+** Status: DRAFT
+** Implementation date (proposed): 1 June 2026
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EQSX_n-xSpxKqqhZ2yVaJeABmWjTIdqufpFQW9Cu8q2o9A?e=Ec589N[FT2025-2]
+** Status: APPROVED
+** Implementation date: 17 November 2025
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EX4qSdDb_FpEsGApa-hpIcUB4zS9GPqdPHu7TzpmhtI1LA?e=YDZxcq[FT2025-1]
+** Status: APPROVED
+** Implementation date: 19 May 2025
+
+View all link:https://wmoomm.sharepoint.com/:f:/s/wmocpdb/EgCIzp9qpxdEqN9M6pRCrvABD0bwBr09m2Unub8rHguOMA?e=jidK4J[previous amendments].
+
+== This manual includes
+
+* Part B section b
+** FM92-XIV GRIB
+** FM94-XIV BUFR
+* Part B section c
+** WMO-CF Extensions
+* Part C section c
+** Common Code tables
+* Part C section d
+** Regulations for reporting traditional observation data in table-driven
+   code forms (TDCF): BUFR or CREX
+* Part C section e
+** Regulations for reporting GBON parameters
+* Part C, Attachment I
+** link:https://community.wmo.int/node/35910[Templates] for the transmission
+   in BUFR or CREX of other data types.
+
+== Working Areas
+
+The Expert Team on Data Standards
+(link:https://community.wmo.int/node/33240[ET-Data])
+maintains the codes in GitHub repositories.
+
+* https://github.com/wmo-im/BUFR4
+* https://github.com/wmo-im/GRIB2
+* https://github.com/wmo-im/CCT
+
+== Guidance
+
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EZm2l8vadQZKlim9jfEoZjIBmv7-m4zV1GzMmwtE4Nsp_Q?e=NLKECg[Guidelines for introducing the WIGOS Station identifier in FM 94 BUFR and FM 95 CREX messages]
+  (circa ~2017) (PDF)
+* link:https://community.wmo.int/node/35882[Guidance materials to Table-Driven Code Formats]
+* link:https://community.wmo.int/node/35885[Administrative and technical information on the migration to TDCF]
+
+== Legacy Editions
+
+Deprecated versions are available here for reference.
+
+* link:https://community.wmo.int/node/186650[FM 94 BUFR edition 3/FM 95 CREX edition 1]
+* link:https://community.wmo.int/node/186651[FM 92 GRIB edition 1]
+
+_This page was last updated on 16 December 2025._

@@ -1,0 +1,76 @@
+= Migration TAC to TDCF
+:source: https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/operational-information-service-ois/migration-tac-tdcf
+
+== Migration to Table Driven Code Form (TDCF)
+
+=== Monitoring the evolution of BUFR/CREX bulletins in Volume C1
+
+_Related to the migration from the Traditional Alphanumeric Codes (TAC) to the
+Table Driven Code Forms (TDCF)_
+
+*BUFR Bulletins where T1 = I:*
+
+* link:https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EbfnREuBL5RCmeMEx43N-9UBgA0yfVsFv79DR0SI09Z9dQ[List of BUFR bulletins]
+* link:https://community.wmo.int/node/36333[Table 1: Data type designator A1 when T1 = I or K]
+
+*CREX Bulletins where T1 = K:*
+
+* link:https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EU0q8HKEWx1Fjxsz_a9WzNEBl9cjErSuQrw5OFCgrJydCQ?e=NNFywi[List of CREX bulletins]
+* link:https://community.wmo.int/node/36333[Table 1 - Data type designator A1 when T1 = I or K]
+
+=== Monitoring the evolution of UPPER-AIR bulletins in Volume C1
+
+_Related to the migration from the Traditional Alphanumeric Codes (TAC) to the
+Table Driven Code Forms (TDCF)_
+
+*TAC Bulletins where T1 = U:*
+
+* link:https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EXOerUiYPIxPibZjyFBaw4gBj-NQI1oonrAbWQ6nJndyPw?e=jbpQco[List of TAC bulletins]
+
+*TDCF Bulletins where T1 = I:*
+
+* link:https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EciRHUuojE1IsFX5eIly_eYBnu_dsq9RbYm4WJZVBkPqsg?e=eehZy4[List of TDCF bulletins]
+
+* link:https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EXYHgteq3SROqzd4-r6Bz1IBCe5jLUYdKwwJTrLpISf6oQ?e=eOaxmW[TAC bulletins with their TDCF counterparts]
+
+=== Monitoring the migration for RBSN/RBCN stations based on IWM/SMM data for 1–15 January 2019
+
+_Related to the migration from the Traditional Alphanumeric Codes (TAC) to the
+Table Driven Code Forms (TDCF)_
+
+[cols="5,1", options="header"]
+|===
+| Description | Download
+
+| SYNOP: Percentage of expected surface reports received at main telecommunications
+  centres from RBSN stations during the monitoring period.
+  Surface reports at 00, 06, 12, 18 UTC
+| link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/ERMhWSNLTVpKoWQMqy-EFCEBkkBWIaMM-qnzrnLKJ50W7A?e=tbC9HW[PDF]
+
+| TEMP: Percentage of expected upper-air reports received at main telecommunications
+  centres from RBSN stations during the monitoring period.
+  Upper-air reports at 00, 12 UTC
+| link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/ERL0_gyMUklMma--H1SBTMEB_DnOjbz3QvltQCBSBvnNQg?e=LA6OQU[PDF]
+
+| CLIMAT: Percentage of expected climat reports received at main telecommunications
+  centres from RBCN stations during the monitoring period
+| link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EeP8fmgSir1Otf6vkRYTNEYBdm9ybMyXDkW6DJExhT6GQA?e=Oks0k2[PDF]
+
+|===
+
+=== Monitoring the migration for RBSN/RBCN stations — by region
+
+[cols="5,1", options="header"]
+|===
+| Description | Download
+
+| Monitoring of migration for RBSN/RBCN stations - by REGION - SURFACE RBSN
+| link:https://wmoomm.sharepoint.com/:x:/s/wmocpdb/Eccy2Yzx_6tEthHOi5xOkfMB6gMHTyyjUYPEbQOWB92MSw?e=jNTbLr[XLS]
+
+| Monitoring of migration for RBSN/RBCN stations - by REGION - UPPER-AIR
+| link:https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EXlnq5du4WFBtcSqXGMue1sBkZ5PDwofUakHmiSkP0Ey-A?e=CTBhif[XLS]
+
+| Monitoring of migration for RBSN/RBCN stations - by REGION - CLIMAT Surface
+| link:https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EbFDNNx9o11NtdlB4xpyAnwBNNYJOvIilvUH3PgGsOH_xA?e=VmJvWd[XLS]
+
+|===
