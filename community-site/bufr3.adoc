@@ -1,0 +1,44 @@
+= BUFR edition 3 and CREX edition 1
+:source: https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/wmo-information-system-wis/about-manual-codes-volume-i3/bufr-edition-3-and-crex-edition-1
+
+The fifteenth session of the Commission for Basic Systems (CBS-XV) (Jakarta, Indonesia,
+10–15 September 2012) agreed that BUFR edition 3 and CREX edition 1 should be removed
+from the _Manual on Codes_, Volume I.2 (WMO-No. 306) and retained on the WMO Website as
+follows.
+
+____
+4.3.2.3  The Commission reviewed the decision by the CBS-XIII to withdraw BUFR edition 3
+and CREX edition 1 on the first Tuesday of November 2012. It agreed that BUFR 3 and CREX 1
+should be removed from the Manual on Codes, and requested that the Secretary-General ensures
+that the definitions were retained on the WMO Website so that archived data could still be
+referenced. The Commission noted that the exchange of information in BUFR Edition 3 (for
+specific purposes such as aviation) and CREX Edition 1 would continue beyond November 2012,
+but also encouraged Members to convert to software that can handle the later Editions.
+____
+
+The editions below are extracted from the _Manual on Codes_, Volume I.2, 2011 edition
+updated in 2012.
+
+== FM 94 BUFR — Binary universal form for the representation of meteorological data (edition 3)
+
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EaxQS7IbvK9Aip5actiIRcEBXG5ycywjVjoVK6NJazMfyQ?e=wweCln[Representation form — Notes — Regulations]
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EaS3n6_y2WtGg5Ai65BFInABJoY7toDOKMkfULyl-ZUsrQ?e=c484nK[Specifications of octet contents — BUFR tables, code tables and flag tables (preface)]
+
+== FM 95 CREX — Character form for the representation and exchange of data (edition 1)
+
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EbrgKRvb_55AjrukC2Qhq08BkfRyzZZgSCBt5ZEHC8SWGQ?e=Eai43e[Code form — Notes — Regulations]
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/ETzzEqWOGjFJm5GdwLNc_HUBg9OzQyZVNMHaiKZ_NyUg6w?e=45mN41[Specifications of sections — Visualization of CREX code form — CREX tables, code tables, flag tables] +
+  link:http://www.wmo.int/pages/prog/www/WMOCodes/WMO306_vI2/PrevEDITIONS/BUFR3CREX1/WMO306_vI2_CREX1_Spec_en.pdf[and template examples (preface)]
+
+== Tables
+
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EbJg4Pa0odBEl2YwkW-1UhMBkGvhYchdnY7JT3HU6rwzng?e=Y6Gjqe[BUFR Table A — Data category]
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EbJZdiHw1EhJt0S-64-SYagBr8G7iLp0SiohR1TjgPezIg?e=CJkdEH[BUFR/CREX Table B — Classification of elements and tables]
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/ER05G2TNk9ZFtineRSJaDPwBznuPqyyNmmb7YUa6WGo2fw?e=6Q4aeL[BUFR Table C — Data description operators]
+* BUFR Table D — List of common sequences (nothing specific to edition 3)
+* Code and Flag Tables associated with BUFR/CREX Table B (nothing specific to BUFR edition 3 or CREX edition 1)
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EdOiUBCHEkVMnNgyHU9q97gBmmFMWbY9mLI3o0ifIU-DAw?e=iUqqEP[CREX Table A — Data category]
+* CREX Table B — Classification of elements (nothing specific to edition 1)
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/Ef5poSzLontFlhngERQPRTUBgpw6C6aiwe0aaZGdOk8FkQ?e=X8xbTO[CREX Table C — Data description operators]
+* CREX Table D — List of common sequences (nothing specific to edition 1)
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EbGYHu2ShKJAlDb6Ft30z9UBBIzRdyW75YeamWSrlNsBOg?e=IxgjO1[Common Code Tables to Binary and Alphanumeric Codes]
