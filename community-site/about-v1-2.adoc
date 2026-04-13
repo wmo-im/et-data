@@ -64,11 +64,10 @@ maintains the codes in GitHub repositories.
 * https://github.com/wmo-im/BUFR4
 * https://github.com/wmo-im/GRIB2
 * https://github.com/wmo-im/CCT
+* https://github.com/wmo-im/cf-extensions-profiles
 
 == Guidance
 
-* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EZm2l8vadQZKlim9jfEoZjIBmv7-m4zV1GzMmwtE4Nsp_Q?e=NLKECg[Guidelines for introducing the WIGOS Station identifier in FM 94 BUFR and FM 95 CREX messages]
-  (circa ~2017) (PDF)
 * link:https://community.wmo.int/node/35882[Guidance materials to Table-Driven Code Formats]
 * link:https://community.wmo.int/node/35885[Administrative and technical information on the migration to TDCF]
 
@@ -79,4 +78,4 @@ Deprecated versions are available here for reference.
 * link:https://community.wmo.int/node/186650[FM 94 BUFR edition 3/FM 95 CREX edition 1]
 * link:https://community.wmo.int/node/186651[FM 92 GRIB edition 1]
 
-_This page was last updated on 16 December 2025._
+_This page was last updated on XX April 2026_

@@ -8,27 +8,23 @@ Guidance materials to Table-Driven Code Forms
 | Document | English | French | Russian | Spanish
 
 | Guide to WMO Table-Driven Code Forms
-| link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/ESuM_GeB2mhCobZK4yvZg3wBDfolw6PN_Ltb9ka7W6IYoQ?e=yeaE1Y[view]
+| link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/ESuM_GeB2mhCobZK4yvZg3wBDfolw6PN_Ltb9ka7W6IYoQ?e=yeaE1Y[En 2002]
 | link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EVNvSqA1q0BDsWJyrMp-slcBze_2Yq2Ala2oWp8Bi55zuQ?e=I7bYdz[view]
 | link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EVR04hvrh3xDmU2K45J1Sd4Bx-6TQSx8y8cYa9MoJZO6TQ?e=qtuffr[view]
 | link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EShyvPH8g5BOtdtIj8Jt8P8Bhm1S55W0og2Rl4Khu2OAsg?e=vupXk4[view]
 
 | Guide to FM92 GRIB edition 2 (November 2007)
-| link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EUOIxVC2a0xEhX7dCvXIrkAByIipeZRGtlzu7fbByfGe_w?e=CugW3O[view]
-| |  |
-
-| Guide to WMO Binary Code Form GRIB 1
-| link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/Ef7NBlEbZK9PgWeJoC0Bu-cB50WhpOtFqo9IA3rVHQrqkw?e=obyMh3[view]
-| |  |
-
-| Introduction to GRIB Edition 1 and GRIB Edition 2
-| link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EQg4uq791KdHhlC8ZtFEPVsBGW3SlAIthb5xH52v9d_bhg?e=PzIcSi[view]
+| link:https://wmoomm.sharepoint.com/:b:/s/Collaboration/IQB0_N0GwPw_R5TJU9qP1_vXAazT88l1hTUJuXRLCU4CNEE?e=aiyyAn[pdf]
 | |  |
 
 | The WMO Table Driven Codes (June 2000)
 | link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EXkzPCzNJQdMpXI10MtcKAYBOM24w-BCBolwKtAFzv85Zw?e=CwdgCj[view]
 | link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EXKQPYIdssFGhpEWufXA6mwBZiZMt3XL0MGcHBELbl44Qw?e=H8KX52[view]
 | |
+
+
+<!--TBD: Introduction to GRIB Edition 1 and GRIB Edition 2 link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EQg4uq791KdHhlC8ZtFEPVsBGW3SlAIthb5xH52v9d_bhg?e=PzIcSi -->
+
 
 |===
 
