@@ -3,36 +3,29 @@
 
 _Manual on Codes (WMO-No. 306), Volume I.2_
 
-*Valid: 17 November 2025*
+*Valid: 1 June 2026*
 
-. 17 November 2025 is the implementation date.
-. The zip files contain machine-readable codes of GRIB, BUFR, and the Common Code Tables.
-  These can be incorporated into encoders/decoders.
-. If there are inconsistencies between the entries available below and the Manual on Codes,
-  Volume I.2 (WMO-No. 306), the Manual prevails.
-. Find link:https://wmoomm.sharepoint.com/:f:/s/wmocpdb/IgBRN7s1to1WRpHUc5401qszAQJt82RMAXxbcvius9xDs8k?e=LDzJxG[previous versions]
-  in SharePoint.
+. 1 June 2026 is the implementation date.
+. The zip files contain machine-readable codes of GRIB, BUFR, and the Common Code Tables that can be incorporated into encoders/decoders.
+. If there are inconsistencies between the entries available below and the Manual on Codes, Volume I.2 (WMO-No. 306), the Manual prevails. 
+. All previous versions are at https://wis.wmo.int/machine-readable-codes.
 
 [cols="4,2,1", options="header"]
 |===
 | Machine Readable Codes | Version | Download
 
-| Parent directory of all machine-readable codes
-| FT2025-2
-| link:https://wmoomm.sharepoint.com/:f:/s/wmocpdb/IgAzBuJ_UAbYRpkBEBckupEjAcUcGxIgaAth44mFgkPQlA0?e=ZoygvR[SharePoint]
-
 | FM 92 GRIB edition 2
-| 36
-| link:https://wmoomm.sharepoint.com/:u:/s/wmocpdb/IQBIhtGVh17tTL1W8HlUjEHWAaaor57feSnNd0EwZhws5zg?e=sGfH2i[zip]
+| 37
+| link:https://wis.wmo.int/machine-readable-codes/GRIB2/v37.zip[zip]
 
 | FM 94 BUFR edition 4
-| 45
-| link:https://wmoomm.sharepoint.com/:u:/s/wmocpdb/IQAx31mQU3V3SpSb5FSfJ-DRASKmeIoUi_T09YvpGe0NVx4?e=4Xh4qx[zip]
+| 46
+| link:https://wis.wmo.int/machine-readable-codes/BUFR4/v46.zip[zip]
 
 | Common Code Tables
-| 2025-11-17
-| link:https://wmoomm.sharepoint.com/:u:/s/wmocpdb/IQDTHFg-gT9VQ567NlQATkX1AevZtN6f-maE9pzX_4phwF8?e=PVhyxp[zip]
+| 2026-06-01
+| link:https://wis.wmo.int/machine-readable-codes/CCT/v2026-06-01.zip[zip]
 
 |===
 
-_Page last updated: 25 November 2025_
+_Page last updated: 20 May 2026_
