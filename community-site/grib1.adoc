@@ -1,0 +1,26 @@
+= GRIB edition 1
+:source: https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/wmo-information-system-wis/grib-edition-1
+
+The sixteenth session of the Commission for Basic Systems (CBS-16) (Guangzhou, China,
+23–29 November 2016) decided to remove GRIB edition 1 from the _Manual on Codes_,
+Volume I.2 (WMO-No. 306) and to ensure it remains available as follows
+(Decision 7 (CBS-16)).
+
+____
+Recognizing that ICAO no longer has requirements for GRIB edition 1,
+
+Recognizing further that FM 92-XI (GRIB edition 1) may continue to be used for bilateral
+exchange between Members for some time,
+
+Decides to remove GRIB edition 1 from the _Manual on Codes_ (WMO-No. 306), Volume I.2;
+
+Requests the Secretary-General to ensure that the specification of FM 92-XI Ext. GRIB
+(GRIB edition 1) remains permanently available so that archived data can still be referenced.
+____
+
+The edition below is extracted from the _Manual on Codes_, Volume I.2, 2015 edition
+updated in 2016.
+
+== FM 92 GRIB — Processed data in the form of grid-point values expressed in binary form (edition 1)
+
+* link:https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EfiR-SzpuYNMvkrbs7RsEEsBjvYge3VTwYRWk6c8Qz8DmQ?e=0oMafU[Code form — Notes — Regulations — Specifications of octet contents — Code tables]

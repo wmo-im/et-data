@@ -1,0 +1,164 @@
+= Table 1: Data type designator A1 (when T1 = I or K)
+:source: https://community.wmo.int/tbl1-t1i-or-k
+
+== Migration to Table Driven Code Form (TDCF)
+
+_Reference: WMO No. 386 - Manual on the GTS - Attachment II-5_
+
+Table C6 - Data type designator A1 (when T1 = I) +
+Table C7 - Data type designator A1 (when T1 = K)
+
+link:http://www.wmo.int/pages/prog/www/WMOCodes/MigrationTDCF/Plan/MIGRATION%20GUIDANCE.doc[Migration Guidance Document]
+
+[cols="1,1,1,1,4,2", options="header"]
+|===
+| BUFR T1T2 | BUFR A1 | CREX T1T2 | CREX A2 | Data Type | TAC Correspondence
+
+| IS | A | KS | A
+| Routinely scheduled observations for distribution from automatic (fixed or mobile) land stations
+  (e.g. 0000, 0100, … or 0220, 0240, 0300, …, or 0715, 0745, ... UTC) ii=01-29
+| n/a
+
+| IS | A | KS | A
+| N-minute observations from automatic (fixed or mobile) land stations — ii=30-59
+| n/a
+
+| IS | B | KS | B
+| Radar reports (parts A and B)
+| RADOB
+
+| IS | C | KS | C
+| Climatic observations from land stations ii = 01-45
+| CLIMAT
+
+| IS | C | KS | C
+| Climatic observations from marine stations ii = 46-59
+| CLIMAT SHIP
+
+| IS | I | KS | I
+| Intermediate synoptic observations from fixed land stations ii = 01-45
+| SYNOP (SIxx)
+
+| IS | I | KS | I
+| Intermediate synoptic observations from mobile land stations ii = 46-59
+| SYNOP MOBIL
+
+| IS | M | KS | M
+| Main synoptic observations from fixed land stations ii = 01-45
+| SYNOP (SMxx)
+
+| IS | M | KS | M
+| Main synoptic observations from mobile land stations ii = 46-59
+| SYNOP MOBIL
+
+| IS | N | KS | N
+| Synoptic observations from fixed land stations at non-standard time
+  (i.e. 01, 02, 04, 05, 07, 08, 10, 11, 13, ..., UTC) ii = 01–45
+| SYNOP (SNxx)
+
+| IS | N | KS | N
+| Synoptic observations from mobile land stations at non-standard time
+  (i.e. 01, 02, 04, 05, 07, 08, 10, 11, 13, ... UTC) ii = 46-59
+| SYNOP MOBIL
+
+| IS | R | KS | R
+| Hydrologic reports
+| HYDRA
+
+| IS | S | KS | S
+| Synoptic observations from marine stations ii = 01-19
+| SHIP
+
+| IS | V | KS | V
+| Special aeronautical observations (SPECI)
+| SPECI
+
+| IS | W | KS | W
+| Aviation routine weather observations (METAR)
+| METAR
+
+| IS | X | KS | X
+| Other surface data
+| IAC, IAC FLEET
+
+| IU | A | KU | A
+| Single level aircraft reports (automatic)
+| AMDAR
+
+| IU | A | KU | A
+| Single level aircraft reports (manual)
+| AIREP/PIREP
+
+| IU | D | KU | D
+| Dropsonde/dropwindsondes
+| TEMP DROP
+
+| IU | J | KU | J
+| Upper wind from fixed land stations (parts A, B, C and D) ii = 01-19
+| PILOT
+
+| IU | J | KU | J
+| Upper wind from mobile land stations (parts A, B, C and D) ii = 20-39
+| PILOT MOBIL
+
+| IU | J | KU | J
+| Upper wind from marine stations (parts A, B, C and D) ii = 40-59
+| PILOT SHIP
+
+| IU | K | KU | K
+| Radio soundings from fixed land stations (parts A and B) ii = 01-19
+| TEMP
+
+| IU | K | KU | K
+| Radio soundings from mobile land stations (parts A and B) ii = 20-39
+| TEMP MOBIL
+
+| IU | K | KU | K
+| Radio soundings from marine stations (parts A and B) ii = 40-59
+| TEMP SHIP
+
+| IU | O | KU | O
+| Profiles of aircraft observations in ascending/descending
+| AMDAR
+
+| IU | Q | KU | Q
+| RASS temperature profilers
+| TEMP
+
+| IU | S | KU | S
+| Radiosondes/pibal reports from fixed land stations (parts A, B, C and D) ii = 01-19
+| TEMP
+
+| IU | S | KU | S
+| Radio soundings from mobile land stations (parts A, B, C and D) ii = 20-39
+| TEMP MOBIL
+
+| IU | S | KU | S
+| Radio soundings from marine stations (parts A, B, C and D) ii = 40-59
+| TEMP SHIP
+
+| IU | T | KU | T
+| Satellite-derived sondes
+| SATEM, SARAD, SATOB
+
+| IU | U | KU | U
+| Monthly statistics of data from upper-air stations ii = 01-45
+| CLIMAT TEMP
+
+| IU | U | KU | U
+| Monthly statistics of data from marine stations ii = 46-59
+| CLIMAT TEMP SHIP
+
+| IU | W | KU | W
+| Upper wind from fixed land stations (parts A and B) ii = 01-19
+| PILOT
+
+| IU | W | KU | W
+| Upper wind from mobile land stations (parts A and B) ii = 20-39
+| PILOT MOBIL
+
+| IU | W | KU | W
+| Upper wind from marine stations (parts A and B) ii = 40-59
+| PILOT SHIP
+
+|===
