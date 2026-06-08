@@ -8,7 +8,7 @@ _Manual on Codes (WMO-No. 306), Volume I.2_
 . 1 June 2026 is the implementation date.
 . The zip files contain machine-readable codes of GRIB, BUFR, and the Common Code Tables that can be incorporated into encoders/decoders.
 . If there are inconsistencies between the entries available below and the Manual on Codes, Volume I.2 (WMO-No. 306), the Manual prevails. 
-. All previous versions are at https://wis.wmo.int/machine-readable-codes.
+. All previous versions are available from https://wis.wmo.int/machine-readable-codes/legacy-versions-archive.
 
 [cols="4,2,1", options="header"]
 |===
@@ -28,4 +28,4 @@ _Manual on Codes (WMO-No. 306), Volume I.2_
 
 |===
 
-_Page last updated: 20 May 2026_
+_Page last updated: 8 June 2026_
